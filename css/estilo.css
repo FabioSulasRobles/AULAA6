@@ -26,6 +26,7 @@ h3{
 .title{
     margin: 0;
     margin-top: 10px;
+    padding-top: 10px;
     border-top: 2px solid black;
 }
 figure{
@@ -65,4 +66,10 @@ a{
 }
 figure p{
     margin-bottom: 10px;
+}
+article{
+    display: inline-block;
+}
+.a{
+    padding-bottom: 10px;
 }
